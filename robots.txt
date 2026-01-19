@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR_DOMAIN_HERE/sitemap.xml
+Sitemap: https://kodiak-perp-dex-referral-code-beras.vercel.app/sitemap.xml
